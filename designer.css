@@ -56,7 +56,15 @@ ul li a:hover {
     color: #fff;
     font-size: 85px;
 }
-
+.Copyright{
+    position: absolute;
+    bottom: 0%;
+    right: 2%;
+}
+.Copyright h6{
+    color: darkslategray;
+    font-size: 15px;
+}
 .button{
     position: absolute;
     top: 60%;
